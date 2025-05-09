@@ -35,4 +35,6 @@ Corresponding AUC-ROC metric results:
 # Comparison with other anomaly detection methods
 ON DIFFUSION MODELING FOR ANOMALY DETECTION (https://openreview.net/pdf?id=lR3rk7ysXz) lists several anomaly detection models tested with the AUC-ROC metric. Swift Hydra manages to consistently outperform them. For eg. for the yeast dataset, the state of the art model can get an accuracy of 50.4 (CBLOF) compared to 74.26 (Swift Hydra)
 
+
+
 Acknowledgment: huyenntn@ptit.edu.vn
