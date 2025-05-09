@@ -30,6 +30,7 @@ This shows that the generated datapoints using the C-VAE are diverse enough to p
 
 Corresponding AUC-ROC metric results:
 ![image](https://github.com/user-attachments/assets/7906615c-5e33-4006-883d-41fd48922914)
+Acknowledgment: huyenntn@ptit.edu.vn
 
 
 # Comparison with other anomaly detection methods
