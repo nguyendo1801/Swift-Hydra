@@ -37,4 +37,3 @@ ON DIFFUSION MODELING FOR ANOMALY DETECTION (https://openreview.net/pdf?id=lR3rk
 
 
 
-Acknowledgment: huyenntn@ptit.edu.vn
